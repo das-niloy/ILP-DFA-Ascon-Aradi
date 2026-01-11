@@ -14,7 +14,8 @@ This repository contains the source codes for the paper, '**{Some Results on the
 	    
 ## File Structure
 
-1.  `ilp_setcover.py`:
+1.  `ascon_ilp.py`:
+2.  `aradi_ilp.py`:
 
 ## For Ascon
 1.  `offlinephase.c`:
