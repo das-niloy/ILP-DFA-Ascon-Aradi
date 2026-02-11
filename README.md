@@ -1,4 +1,4 @@
-This repository contains the source codes for the paper, '**{Some Results on the Aegis Family of ciphers} **'.
+This repository contains the source codes for the paper.
 
 ## Language Used for code
 1.  C-language
