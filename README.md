@@ -25,7 +25,8 @@ This repository contains the source codes for the paper.
 ## For Aradi
 1.  `function_encryption.h` and `function_decryption.h`	: Script for writing necessary functions for encryption and decryption of Aradi.
 2.  `onlinephase_encryption_subkey_recovery.c` 			: Script for recover subkeys of Aradi using encryption oracle.
-4.  `onlinephase_decryption_masterkey_recovery.c`		: Script for recover masterkey of Aradi using decryption oracle.
+3.  `onlinephase_decryption_masterkey_recovery.c`		: Script for recover masterkey of Aradi using decryption oracle.
+4.  `locate_fault.c`									: Script for finding fault location.
 
 ## Usage
 
