@@ -25,8 +25,8 @@ This repository contains the source codes for the paper.
 1.  `function_decryption.h`								: Script for writing necessary functions for encryption and decryption of Aradi.
 2.  `aradi_fullkey_recovery_randomfault.c` 				: Script for recover key with random fault model.
 3.  `aradi_fullkey_recovery_deterministicfault.c`		: Script for recover key with determinitic fault model.
-4.  `simulate_aradi_singlerow_1.c'						: Script for count average number random faults, distinct faults and used faults for full coverage for the subkey sk^0.
-5.  `simulate_aradi_singlerow_1.c'						: Script for count average number random faults, distinct faults and used faults for full coverage for the subkey sk^1. 
+4.  `simulate_aradi_singlerow_1.c`						: Script for count average number random faults, distinct faults and used faults for full coverage for the subkey sk^0.
+5.  `simulate_aradi_singlerow_1.c`						: Script for count average number random faults, distinct faults and used faults for full coverage for the subkey sk^1. 
 
 ## Usage
 
